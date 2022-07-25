@@ -13,6 +13,7 @@ Combat: https://arxiv.org/pdf/2105.00990.pdf;
 3. tool: openai gym and tacview
 
 4. airsim: https://github.com/Microsoft/AirSim
+5. MIT AIA: https://aia.mit.edu/challenges/
 
 Journal for publication:
 
