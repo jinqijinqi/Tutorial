@@ -13,3 +13,7 @@ Combat: https://arxiv.org/pdf/2105.00990.pdf;
 3. tool: openai gym and tacview
 
 4. airsim: https://github.com/Microsoft/AirSim
+
+Journal for publication:
+
+1. defense technology (Q2 in China, 4 weeks for first review)
