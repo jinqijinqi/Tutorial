@@ -18,3 +18,8 @@ Combat: https://arxiv.org/pdf/2105.00990.pdf;
 Journal for publication:
 
 1. defense technology (Q2 in China, 4 weeks for first review)
+
+FPGA board for AI
+
+1. Zynq UltraScale+ MPSoC ZCU102 Evaluation Kit: https://china.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html#toolsip
+
