@@ -23,10 +23,11 @@ FPGA board for AI
 
 1. Zynq UltraScale+ MPSoC ZCU102 Evaluation Kit: https://china.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html#toolsip
 
-guide student to write paper:
+guide student to write paper or build system
 
 1. using model search/sparsity method to search better state of the art network: 1. Auto-DenseUNet: Searchable neural network architecture for mass segmentation in 3D automated breast ultrasound, August 2022, Medical Image Analysis; 2. NAS-SCAM: Neural Architecture Search-Based Spatial and Channel Joint Attention Module for Nuclei Semantic Segmentation and Classification, Chapter Private full-text , September 2020
 
 2. bayesian state of the art model to obtain bayes version of model and uncertainty and compact model based on sparse.
 
 3. transformer state of the art model to get better model
+4. Jetbot AI Kit: https://www.waveshare.net/wiki/JetBot_AI_Kit
