@@ -22,8 +22,11 @@ Journal for publication:
 Hardware for AI
 
    FPGA board for AI:
+   
    1. Kria KV260 Vision AI Starter Kit (200$): https://www.xilinx.com/products/som/kria/kv260-vision-starter-kit.html
+  
    GPU for robot AI：
+   
    1.Jetbot AI Kit(cheap): https://www.waveshare.net/wiki/JetBot_AI_Kit 
 
 guide student to write paper or build system
