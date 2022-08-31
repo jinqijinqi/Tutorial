@@ -19,9 +19,12 @@ Journal for publication:
 
 1. defense technology (Q2 in China, 4 weeks for first review)
 
-FPGA board for AI
+Hardware for AI
 
-1. Zynq UltraScale+ MPSoC ZCU102 Evaluation Kit: https://china.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html#toolsip
+   FPGA board for AI:
+   1. Kria KV260 Vision AI Starter Kit (200$): https://www.xilinx.com/products/som/kria/kv260-vision-starter-kit.html
+   GPU for robot AI：
+   1.Jetbot AI Kit(cheap): https://www.waveshare.net/wiki/JetBot_AI_Kit 
 
 guide student to write paper or build system
 
@@ -30,4 +33,3 @@ guide student to write paper or build system
 2. bayesian state of the art model to obtain bayes version of model and uncertainty and compact model based on sparse.
 
 3. transformer state of the art model to get better model
-4. Jetbot AI Kit: https://www.waveshare.net/wiki/JetBot_AI_Kit
