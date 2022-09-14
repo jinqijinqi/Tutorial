@@ -27,7 +27,9 @@ Hardware for AI
   
    GPU for robot AI：
    
-   1.Jetbot AI Kit(cheap): https://www.waveshare.net/wiki/JetBot_AI_Kit 
+   2.Jetbot AI Kit(cheap): https://www.waveshare.net/wiki/JetBot_AI_Kit 
+   
+   3. GPR radar DIY(schematic to build system, for graduate/college student): https://github.com/Ritchizh/GPR_Project_2017 
 
 guide student to write paper or build system
 
